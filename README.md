@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcrrilloo
 - 👀 I’m interested in design & development
-- 🌱 I’m currently learning C# & Java
+- 🌱 I’m currently learning Software Development
 - ⚡  I’m looking to collaborate on anything progressive and exciting
 - ✨ Fun fact: Finishing my undergrad in software development
 
